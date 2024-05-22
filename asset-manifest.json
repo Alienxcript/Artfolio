@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Artfolio/static/css/main.094d150d.css",
+    "main.js": "/Artfolio/static/js/main.19ba8324.js",
+    "static/media/ro-mob.jpg": "/Artfolio/static/media/ro-mob.437e6957c044b80ca4ed.jpg",
+    "static/media/ro-bird.jpg": "/Artfolio/static/media/ro-bird.85996dfe6106d542f05d.jpg",
+    "static/media/heatblast.jpg": "/Artfolio/static/media/heatblast.c3b84bb02a2c04ce5791.jpg",
+    "static/media/row-waterscenenew.jpg": "/Artfolio/static/media/row-waterscenenew.9719be6bdc965aeaf0d5.jpg",
+    "static/media/ro-skullnew.jpg": "/Artfolio/static/media/ro-skullnew.71f18dce2233301b9409.jpg",
+    "static/media/ro-pc.jpg": "/Artfolio/static/media/ro-pc.330ec13ebdec50fb13cd.jpg",
+    "static/media/roglight.jpg": "/Artfolio/static/media/roglight.581a304135f87f1f634f.jpg",
+    "static/media/ro-her.jpg": "/Artfolio/static/media/ro-her.1ebe15fcc85bdce4c661.jpg",
+    "static/media/ro-white.jpg": "/Artfolio/static/media/ro-white.4bfb5eca5a0d68fb0536.jpg",
+    "index.html": "/Artfolio/index.html",
+    "main.094d150d.css.map": "/Artfolio/static/css/main.094d150d.css.map",
+    "main.19ba8324.js.map": "/Artfolio/static/js/main.19ba8324.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.094d150d.css",
+    "static/js/main.19ba8324.js"
+  ]
+}
