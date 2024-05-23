@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Artfolio/static/css/main.094d150d.css",
-    "main.js": "/Artfolio/static/js/main.ace5b836.js",
+    "main.js": "/Artfolio/static/js/main.1098d977.js",
     "static/media/ro-mob.jpg": "/Artfolio/static/media/ro-mob.437e6957c044b80ca4ed.jpg",
     "static/media/ro-bird.jpg": "/Artfolio/static/media/ro-bird.85996dfe6106d542f05d.jpg",
     "static/media/heatblast.jpg": "/Artfolio/static/media/heatblast.c3b84bb02a2c04ce5791.jpg",
@@ -13,10 +13,10 @@
     "static/media/ro-white.jpg": "/Artfolio/static/media/ro-white.4bfb5eca5a0d68fb0536.jpg",
     "index.html": "/Artfolio/index.html",
     "main.094d150d.css.map": "/Artfolio/static/css/main.094d150d.css.map",
-    "main.ace5b836.js.map": "/Artfolio/static/js/main.ace5b836.js.map"
+    "main.1098d977.js.map": "/Artfolio/static/js/main.1098d977.js.map"
   },
   "entrypoints": [
     "static/css/main.094d150d.css",
-    "static/js/main.ace5b836.js"
+    "static/js/main.1098d977.js"
   ]
 }
